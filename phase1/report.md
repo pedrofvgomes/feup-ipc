@@ -123,5 +123,5 @@ NotteStudio contains a comprehensive array of features and tasks designed to enh
 NotteStudio combines sleep analysis and productivity enhancement in one cohesive platform, making it a valuable tool for those looking to optimize their sleep and boost their focus and productivity.
 
 ## 8 - Annexes
-#### [Questionnaire](https://forms.gle/hSQHWmbxqsXaFzLp7)
-#### [Results](https://docs.google.com/spreadsheets/d/1vdrEOosFylFXMdqyDf1SwhwgKliYHee5KlXqPBTHjL0/edit?usp=sharing)
+#### [Questionnaire (Google Forms)](https://forms.gle/hSQHWmbxqsXaFzLp7)
+#### [Results (Google Sheets)](https://docs.google.com/spreadsheets/d/1vdrEOosFylFXMdqyDf1SwhwgKliYHee5KlXqPBTHjL0/edit?usp=sharing)
