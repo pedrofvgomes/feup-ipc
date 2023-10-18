@@ -1,5 +1,5 @@
 <div align='center'>
-<img src='../img/feup.png'>
+<img src='https://raw.githubusercontent.com/pedrofvgomes/feup-ipc/main/img/feup.png'>
 <h1>NotteStudio</h1>
 <h3>3LEIC08 G09</h3>
 <p>
@@ -40,6 +40,58 @@ The app provides a holistic and user-friendly view of sleep and concentration da
 This allows them to better visualize their progress and set goals for themselves.
 
 ## 2 - Related apps / services / systems
+
+### Sleep Tracking apps
+#### Pillow
+Pillow offers a wide array of features to help the user understand and improve sleep quality, such as:
+ * In-depth sleep analysis
+ * Smart alarm
+ * Sleep trend monitoring
+ * Heart rate tracking
+ * Customizable sleep goals
+ * Relaxation techniques
+ * Sleep sounds and music
+ * Integration with health apps
+ * Sleep trend comparisons
+
+#### Sleep Cycle
+Similar to pillow, Sleep Cycle also offers many features in order to improve sleep quality, such as:
+ * In-depth sleep analysis
+ * Smart alarm
+ * Sleep trend monitoring
+ * Heart rate tracking
+ * Customizable sleep goals
+ * Relaxation techniques
+ * Sleep sounds and music
+ * Integration with health apps
+ * Sleep trend comparisons
+
+
+### Concentration apps
+#### Forest
+Forest provides a comprehensive set of features to enhance study productivity, including:
+ * Productivity-focused time management
+ * Grow virtual trees as you study
+ * Encourages focus and minimizes distractions
+ * Customizable study sessions
+ * Real-world tree planting incentives
+ * Detailed productivity statistics
+ * Goal tracking and achievements
+ * Syncs across multiple devices
+ * Motivating and eco-friendly study tool
+
+#### Focus Keeper
+Focus Keeper also presents a wide range of features to improve the user's time management skills and boost productivity, including:
+ * Pomodoro Technique timer
+ * Task lists and goals
+ * Detailed productivity statistics
+ * Customizable work and break intervals
+ * Daily and weekly progress tracking
+ * Inspirational quotes for motivation
+ * Focus sessions for enhanced concentration
+ * Syncs across multiple devices
+ * Encourages effective work habits
+ * Privacy and security features
 ## 3 - Questionnaire - Highlights
 ## 4 - PACT Analysis
 ## 5 - Personas
