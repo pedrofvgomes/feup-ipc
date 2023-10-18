@@ -26,6 +26,13 @@ Pedro Filipe Vale Gomes (up202108825)
 
 
 ## 1 - Project's idea description
+
+**NotteStudio** is a mobile and smartwatch application that aims to empower individuals in their pursuit of sleep quality and concentration.
+
+One of the aspects of NotteStudio is its focus, on the user. It allows users to create profiles that offer a view of their lifestyle and habits. In addition to information like age, gender and occupation users can provide details about their lifestyle choices. They can input data such as how they sleep each night the number of hours they dedicate to studying or working each week and other relevant personal habits. This comprehensive information helps the app gain insights into the users behavior patterns, which in turn enables it to analyze data effectively and provide meaningful feedback. Ultimately this support aids users on their journey, towards achieving better sleep quality and enhanced concentration.
+
+After creating their profile, a user can turn on *Sleeping Mode* right before going to sleep, and the device automatically starts collecting information regarding the user's sleep environment, such as weather conditions, ambient noise level, and starts monitoring the user's movements and determine the quality of the sleep, including whether it's restful or agitated.
+
 ## 2 - Related apps / services / systems
 ## 3 - Questionnaire - Highlights
 ## 4 - PACT Analysis
