@@ -40,20 +40,8 @@ This allows them to better visualize their progress and set goals for themselves
 ## 2 - Related apps / services / systems
 
 ### Sleep Tracking apps
-#### Pillow
-Pillow offers a wide array of features to help the user understand and improve sleep quality, such as:
- * In-depth sleep analysis
- * Smart alarm
- * Sleep trend monitoring
- * Heart rate tracking
- * Customizable sleep goals
- * Relaxation techniques
- * Sleep sounds and music
- * Integration with health apps
- * Sleep trend comparisons
-
-#### Sleep Cycle
-Similar to pillow, Sleep Cycle also offers many features in order to improve sleep quality, such as:
+#### Pillow / Sleep Cycle
+Pillow and Sleep Cycle offer a wide array of features to help the user understand and improve sleep quality, such as:
  * In-depth sleep analysis
  * Smart alarm
  * Sleep trend monitoring
@@ -89,27 +77,51 @@ Focus Keeper also presents a wide range of features to improve the user's time m
  * Focus sessions for enhanced concentration
  * Syncs across multiple devices
  * Encourages effective work habits
- * Privacy and security features
 
 > However, NotteStudio has something that all the others dont - something ground breaking: it can be used in a smart watch! 
 Besides that, we also have tutors from all over the world and from all areas of knowledge to help you see if your study has been productive or not.
 
 ## 3 - Questionnaire - Highlights
-Our survey, which garnered responses from 28 participants, representing a mix of coursemates, friends, and family members, included 11 students, 16 employed individuals, and one with the "Trabalhador-Estudante" status.
+Our survey, which recieved responses from 28 participants, representing a mix of coursemates, friends, and family members, included 11 students, 16 employed individuals, and one with the "Trabalhador-Estudante" status.
 
-Key statistics from the survey are as follows:
+Key statistics from the survey include:
 
-Notably, 67.9% of respondents reported maintaining a sleep duration of 5-7 hours daily.
-An overwhelming 94.4% of those facing monthly sleep issues acknowledged using smartphones and electronic devices before bedtime.
-Within the student group, 66.7% allocated 3-5 hours per week to studying.
-Interestingly, 75% of students revealed that their studying often met their expectations but frequently fell short of their anticipated outcomes.
-For additional details and access to the survey form and data, please refer to the [Annexes](#8---annexes) section.
+* Notably, 67.9% of respondents reported maintaining a sleep duration of 5-7 hours daily.
+* An overwhelming 94.4% of those facing monthly sleep issues acknowledged using smartphones and electronic devices before bedtime.
+* Within the student group, 66.7% allocated 3-5 hours per week to studying.
+* Interestingly, 75% of students revealed that their studying often met their expectations but frequently fell short of their anticipated outcomes.
+* For additional details and access to the survey form and data, please refer to the [Annexes](#8---annexes) section.
 
 
 ## 4 - PACT Analysis
 ## 5 - Personas
 ## 6 - Activity scenarios
-## 7 - Functionalities and task
+## 7 - Functionalities and tasks
+
+NotteStudio contains a comprehensive array of features and tasks designed to enhance your sleep quality and concentration. These functionalities offer a holistic approach to well-being, combining advanced sleep analysis and productivity-focused tools. Here's an overview of what NotteStudio has to offer:
+
+* In-depth sleep analysis
+ * Smart alarm
+ * Sleep trend monitoring
+ * Heart rate tracking
+ * Customizable sleep goals
+ * Relaxation techniques
+ * Sleep sounds and music
+ * Integration with health apps
+ * Sleep trend comparisons
+ * Productivity-focused time management
+ * Pomodoro Technique timer
+ * Task lists and goals
+ * Detailed productivity statistics
+ * Customizable work and break intervals
+ * Daily and weekly progress tracking
+ * Inspirational quotes for motivation
+ * Focus sessions for enhanced concentration
+ * Syncs across multiple devices - even smartbands
+ * Encourages effective work habits
+
+NotteStudio combines sleep analysis and productivity enhancement in one cohesive platform, making it a valuable tool for those looking to optimize their sleep and boost their focus and productivity.
+
 ## 8 - Annexes
 #### [Questionnaire](https://forms.gle/hSQHWmbxqsXaFzLp7)
 #### [Results](https://docs.google.com/spreadsheets/d/1vdrEOosFylFXMdqyDf1SwhwgKliYHee5KlXqPBTHjL0/edit?usp=sharing)
