@@ -19,8 +19,6 @@ Pedro Filipe Vale Gomes (up202108825)
 6. [**Activity scenarios**](#6---activity-scenarios)
 7. [**Functionalities and tasks**](#7---functionalities-and-task)
 8. [**Annexes**](#8---annexes)
-    1. [**Questionnaires**](#)
-    2. [**Summary of results**](#)
 
 
 ## 1 - Project's idea description
@@ -92,9 +90,26 @@ Focus Keeper also presents a wide range of features to improve the user's time m
  * Syncs across multiple devices
  * Encourages effective work habits
  * Privacy and security features
+
+> However, NotteStudio has something that all the others dont - something ground breaking: it can be used in a smart watch! 
+Besides that, we also have tutors from all over the world and from all areas of knowledge to help you see if your study has been productive or not.
+
 ## 3 - Questionnaire - Highlights
+Our survey, which garnered responses from 28 participants, representing a mix of coursemates, friends, and family members, included 11 students, 16 employed individuals, and one with the "Trabalhador-Estudante" status.
+
+Key statistics from the survey are as follows:
+
+Notably, 67.9% of respondents reported maintaining a sleep duration of 5-7 hours daily.
+An overwhelming 94.4% of those facing monthly sleep issues acknowledged using smartphones and electronic devices before bedtime.
+Within the student group, 66.7% allocated 3-5 hours per week to studying.
+Interestingly, 75% of students revealed that their studying often met their expectations but frequently fell short of their anticipated outcomes.
+For additional details and access to the survey form and data, please refer to the [Annexes](#8---annexes) section.
+
+
 ## 4 - PACT Analysis
 ## 5 - Personas
 ## 6 - Activity scenarios
 ## 7 - Functionalities and task
 ## 8 - Annexes
+#### [Questionnaire](https://forms.gle/hSQHWmbxqsXaFzLp7)
+#### [Results](https://docs.google.com/spreadsheets/d/1vdrEOosFylFXMdqyDf1SwhwgKliYHee5KlXqPBTHjL0/edit?usp=sharing)
