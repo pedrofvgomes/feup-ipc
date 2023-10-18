@@ -22,8 +22,6 @@ Pedro Filipe Vale Gomes (up202108825)
     1. [**Questionnaires**](#)
     2. [**Summary of results**](#)
 
-# 
-
 
 ## 1 - Project's idea description
 
@@ -31,7 +29,15 @@ Pedro Filipe Vale Gomes (up202108825)
 
 One of the aspects of NotteStudio is its focus, on the user. It allows users to create profiles that offer a view of their lifestyle and habits. In addition to information like age, gender and occupation users can provide details about their lifestyle choices. They can input data such as how they sleep each night the number of hours they dedicate to studying or working each week and other relevant personal habits. This comprehensive information helps the app gain insights into the users behavior patterns, which in turn enables it to analyze data effectively and provide meaningful feedback. Ultimately this support aids users on their journey, towards achieving better sleep quality and enhanced concentration.
 
-After creating their profile, a user can turn on *Sleeping Mode* right before going to sleep, and the device automatically starts collecting information regarding the user's sleep environment, such as weather conditions, ambient noise level, and starts monitoring the user's movements and determine the quality of the sleep, including whether it's restful or agitated.
+*Sleeping Mode*
+Users can turn this mode on right before going to sleep, and the device automatically starts collecting information regarding their sleep environment, such as weather conditions, ambient noise level, and starts monitoring their movements to determine the quality of sleep, including whether it's restful or agitated.
+
+*Concentration Mode*
+Users have can activate this mode when engaging in tasks that demand a high level of focus and concentration. This mode offers a high degree of customization, allowing users to define their work and rest intervals according to their preferences. NotteStudio also provides helpful suggestions for these intervals, based on the user's profile and individual needs to optimize their productivity and overall well-being.
+
+*Data analysis*
+The app provides a holistic and user-friendly view of sleep and concentration data, based on the user's habits.
+This allows them to better visualize their progress and set goals for themselves.
 
 ## 2 - Related apps / services / systems
 ## 3 - Questionnaire - Highlights
