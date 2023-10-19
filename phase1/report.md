@@ -78,7 +78,7 @@ Focus Keeper also presents a wide range of features to improve the user's time m
  * Syncs across multiple devices
  * Encourages effective work habits
 
-> However, NotteStudio has something that all the others dont - something ground breaking: it can be used in a smart watch! 
+> However, NotteStudio has something that all the others don't - something ground breaking: it can be used in a smartwatch! 
 Besides that, we also have tutors from all over the world and from all areas of knowledge to help you see if your study has been productive or not.
 
 ## 3 - Questionnaire - Highlights
@@ -95,6 +95,82 @@ Key statistics from the survey include:
 
 ## 4 - PACT Analysis
 ## 5 - Personas
+
+#### Persona 1
+**Name** - Miley Jackson
+**Age** - 20 years old
+**Life Stage** - Finishing her Bachelor's
+**Profile** - Miley is a Bachelor's student who has been oversleeping and feeling unproductive. She is concerned about her academic performance and social life. Following advice from a therapist, Miley is actively working on improving her sleep schedule, productivity, and mental health.
+
+**Motivations:**
+* Enhancing her sleep schedule
+* Boosting productivity
+* Maintaining a healthy social life
+
+**Frustrations:**
+* Excessive sleep and decreased productivity
+* Academic performance concerns
+* Worries about her social life
+
+**Goals:**
+* Discover efficient study methods to easily submit assignments on time.
+* Find a simple way to monitor her sleep schedule and its quality to enhance her overall well-being.
+
+**Needs:**
+* Improved time management
+* Support in developing healthy sleep habits
+* Assistance in balancing academic commitments, work, and social life.
+
+#### Persona 2
+**Name** - Michael Jordan
+**Age** - 21 years old
+**Life Stage** - Starting his Master's
+**Profile** - Michael recently completed his Bachelor's degree and is embarking on his Master's journey. He struggles with insufficient sleep, excessive reliance on caffeine, and a feeling of unproductivity during study time. He seeks solutions to rectify his sleep schedule, improve academic performance, and maintain a vibrant social life.
+
+**Motivations:**
+* Achieving academic excellence
+* Long-term health benefits
+* Enhancing mood and well-being
+
+**Frustrations:**
+* Inadequate sleep leading to sluggishness and irritability
+* Overreliance on pressure to drive productivity
+
+**Goals:**
+* Discover effective study strategies that simplify the learning process.
+* Identify a convenient way to monitor and enhance sleep quality for an improved quality of life.
+
+**Needs:**
+* A healthy sleep routine
+* Optimal study techniques
+
+#### Persona 3
+**Name** - Sarah Mitchell
+**Age** - 35 years old
+**Life Stage** - Mid-career professional
+**Profile** - Sarah is a seasoned office worker who grapples with insufficient sleep due to the demands of her job. She needs to boost her concentration and productivity to excel at work. She seeks ways to optimize her sleep while maintaining her professional responsibilities and personal life.
+
+**Motivations:**
+* Heightened work performance
+* Achieving a work-life balance
+* Reducing stress and fatigue
+
+**Frustrations:**
+* Inadequate sleep affecting her office work
+* Difficulty concentrating during work hours
+* Balancing professional and personal commitments
+
+**Goals:**
+* Discover strategies to enhance her focus and productivity in the office.
+* Identify solutions for better sleep quality and maintaining overall well-being.
+
+**Needs:**
+* Improved sleep patterns
+* Enhanced concentration techniques
+* Effective strategies to balance work and personal life.
+
+>The personas we've concentrated on can be categorized into two groups: those who struggle with oversleeping and those who battle with insufficient sleep. These often comprise students and workers who lean heavily on caffeine and need to establish healthier sleep patterns. On the other hand, there are students and workers who experience excessive sleep but struggle with productivity.
+
 ## 6 - Activity scenarios
 ## 7 - Functionalities and tasks
 
